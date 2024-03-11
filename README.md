@@ -24,6 +24,8 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
       
 ## Portfolio Projects
 ## Education
+    - Appalachian State University, Boone, North Carolina: Master of Science in Applied Data Analytics
+    - 
 ## certifications
 ## Contact
   - Website: 
