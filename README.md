@@ -21,7 +21,7 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
       - [My Tableau Public Profile](https://public.tableau.com/app/profile/isaac.mensah.twum/vizzes). This link leads to the Tableau visualizations I published.
         
     - Power BI
-        -[Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
+      - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
       
 ## Portfolio Projects
 
