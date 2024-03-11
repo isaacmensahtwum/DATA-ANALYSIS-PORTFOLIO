@@ -23,10 +23,26 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
         -[Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
       
 ## Portfolio Projects
+
 ## Education
-    - Appalachian State University, Boone, North Carolina: Master of Science in Applied Data Analytics
-    - 
+- Appalachian State University, North Carolina <br>
+  Master of Science in Applied Data Analytics, August 2024
+- Eastern Illinois University, Illinois <br>
+  Master of Arts in Economics, May 2023
+- University of Cape Coast, Ghana <br>
+  Bachelor of Arts in Economics and Mathematics, July 2020
+  
 ## certifications
+- [Data-Driven Decision Making in SQL](),  DataCamp Oct. 2023
+- Analyzing Business Data in SQL – DataCamp 	Nov. 2023
+- Microsoft Certified: Azure Fundamentals – Microsoft (verification code: wXVqW-48Eq) Oct. 2023
+- Using Python to Access Web Data Certificate – University of Michigan 	Sept. 2022
+- IBM Data Analysis with Python Certificate, IBM 	May 2022
+- Google Data Analytics Professional Certificate, Google 	Apr. 2022
+- IBM Databases and SQL for Data Science with Python Certificate, IBM 	Mar. 2022
+- Certificate in R programming, Johns Hopkins University 	Dec. 2021
+- Certificate in Microsoft Office Suite, Microsoft
+
 ## Contact
   - Website: 
   - LinkedIn: [@imtwum](https://www.linkedin.com/in/imtwum/)
