@@ -32,16 +32,16 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
 - University of Cape Coast, Ghana <br>
   Bachelor of Arts in Economics and Mathematics, July 2020
   
-## certifications
-- [Data-Driven Decision Making in SQL](),  DataCamp Oct. 2023
-- Analyzing Business Data in SQL – DataCamp 	Nov. 2023
-- Microsoft Certified: Azure Fundamentals – Microsoft (verification code: wXVqW-48Eq) Oct. 2023
-- Using Python to Access Web Data Certificate – University of Michigan 	Sept. 2022
-- IBM Data Analysis with Python Certificate, IBM 	May 2022
-- Google Data Analytics Professional Certificate, Google 	Apr. 2022
-- IBM Databases and SQL for Data Science with Python Certificate, IBM 	Mar. 2022
-- Certificate in R programming, Johns Hopkins University 	Dec. 2021
-- Certificate in Microsoft Office Suite, Microsoft
+## Certifications
+- [Web Analytics Certification - GA4](https://skillshop.credential.net/f8ebaff6-7d51-4dc1-af38-b96696dc52d4#gs.5pkzay), Google, Jan. 2024
+- [Data-Driven Decision Making in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/589044df3fc34ec6c9e933d47871bd54e2d0209a),  DataCamp Oct. 2023
+- [Analyzing Business Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/00fbbadb8223afa88e5d3d69a4ec45bd559001da), DataCamp Nov. 2023
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/earner/earned/badge/394d8952-078b-47d8-b2a4-8637b6b5d0d6), Microsoft (verification code: wXVqW-48Eq) Oct. 2023
+- [Using Python to Access Web Data Certificate](https://www.coursera.org/account/accomplishments/verify/SUHZCAZBGZ4C) Coursera, University of Michigan Sept. 2022
+- [IBM Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/LJJKE8M86ASX), IBM May 2022
+- [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/verify/WBPALMQ97GY2), Coursera, Google Apr. 2022
+- [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/YMNXGWDT8SUM), IBM Mar. 2022
+- [R programming](https://www.coursera.org/account/accomplishments/verify/4J2Z3E2HBUER), Coursera, Johns Hopkins University Dec. 2021
 
 ## Contact
   - Website: 
