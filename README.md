@@ -28,17 +28,19 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
 
 - Movie Recommendation System (Machine Learning)
   
-    **Goal:**
+    **Goal:** Recommender systems have become integral to various online platforms, providing personalized suggestions to users across a wide range of entities such as products, movies, and services. Examples include Amazon's product recommendations, Netflix's movie suggestions, and YouTube's video recommendations. In this project, my focus is on building a Content-based movie recommendation system using Natural Language Processing (NLP) techniques. By analyzing textual features such as movie descriptions, genres, and titles, I aim to recommend movies that share similar characteristics with specific movies of interest tailored toward user preferences and tastes.
   
     **Code:** [Movie Recommendation System](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Movie%20Recommendation%20System.ipynb)
   
-    **Description:**
+    **Description:** The dataset contains 4803 entries with 20 columns. Movie titles, taglines, genres, overviews and popularity were utilized to generate the recommendation function. Data cleaning and missing values. Basic text pre-processing, feature engineering and document similarity computation were done.
   
-    **Results:**
+    **Results:** The movie recommendation function successfully generates top 5 recommendations for each given movie title in the dataset. For instance, for the movie "Minions", the recommended movies include "Despicable Me 2", "Despicable Me", "Teenage Mutant Ninja Turtles: Out of the Shadows", "Superman", and "Rise of the Guardians". Similarly, for "Interstellar", recommended movies are "Gattaca", "Space Cowboys", "Space Pirate Captain Harlock", "Starship Troopers", and "Final Destination 2". These recommendations are derived from the movie metadata, enabling the system to suggest similar movies based on their textual descriptions.
   
-    **Libraries:**
+    **Libraries:** nltk, re, pandas, numpy, TfidfVectorizer, cosine_similarity (sklearn feature_extraction)
+ 
+    **Skills:** Natural language processing, Machine learning, unstructured data, predictive modelling.
+
   
-    **Skills:**
 - Customer Sentiment Analysis
   
   **Goal:**
