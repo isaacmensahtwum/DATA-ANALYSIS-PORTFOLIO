@@ -57,18 +57,19 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
   
 ### 2. SQL
   - [Customer Churn Analysis for Telecommunication Networks](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
-    **Goal:**
+
+    **Goal:** To identify customers who are likely to cancel their subscriptions, thereby allowing for the implementation of proactive measures to encourage customer continued loyalty
   
     **Code:** [Customer Churn Analysis.sql](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
   
-    **Description:**
+    **Method:** Did data sourcing and cleaning, had an entity relationship diagram (ERD) to connect the tables in the database, queried 10 business questions, and visualized using Tableau.
   
     **Results:** The telecommunication network should add value to its service by giving incentives and exploring better pricing opportunities. They should give premium tech support for all customers,
                  train their customer support personnel and improve customer feedback. Also, there should be incentives to encourage long-term commitments. it can be offering locked phone discounts to keep                         customers beyond a year. Further, there should be city-specific market insights and customer feedback collection to gain insights into local preferences. [Attached PowerPoint](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20PowerPoints.pptx)
   
-    **Software:** MySQL server
+    **Software:** MySQL server, draw.io, Tableau
   
-    **Skills:** Data Management, Data Manipulation Language (DML), Data Query Language(DQL), Data Definition Language(DDL).
+    **Skills:** Data Management, Data Manipulation Language (DML), Data Query Language(DQL), Data Definition Language(DDL), Entity Relationship Diagram, RDBMS
 
 
   - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
