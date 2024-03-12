@@ -12,10 +12,10 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
     
 ## Portfolio Projects
 ### 1. Python
-- Sales Analysis for Retail Stores <br>
-    **Goal:** To identify product categories whose sales trend over time have declined and identify key reasons for such decline.<br>
+- [Sales Analysis for Retail Stores](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb)
+    **Goal:** To identify product categories whose sales trend over time have declined and identify key reasons for such decline.
     
-    **Code:** [Business Metrics-Sales Analysis.ipynb](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb) <br>
+    **Code:** [Business Metrics-Sales Analysis.ipynb](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb)
     
     **Method:** The dataset contains 30 variables including unit price, quantity sold, product categories, and competitor prices. It spans for 2 consecutive years.
                   Data Cleaning and Exploratory Data Analysis and Visualization.<br>
@@ -26,7 +26,7 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
     
     **Skills:** data cleaning, data analysis, data visualization.<br>
 
-- Movie Recommendation System (Machine Learning)
+- [Movie Recommendation System (Machine Learning)](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Movie%20Recommendation%20System.ipynb)
   
     **Goal:** Recommender systems have become integral to various online platforms, providing personalized suggestions to users across a wide range of entities such as products, movies, and services. Examples include Amazon's product recommendations, Netflix's movie suggestions, and YouTube's video recommendations. In this project, my focus is on building a Content-based movie recommendation system using Natural Language Processing (NLP) techniques. By analyzing textual features such as movie descriptions, genres, and titles, I aim to recommend movies that share similar characteristics with specific movies of interest tailored toward user preferences and tastes.
   
@@ -41,9 +41,9 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
     **Skills:** Natural language processing, Machine learning, unstructured data, predictive modelling.
 
   
-- Customer Sentiment Analysis
+<!-- - [Customer Sentiment Analysis]()
   
-  **Goal:**
+    **Goal:**
   
     **Code:**
   
@@ -53,10 +53,24 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
   
     **Libraries:**
   
-    **Skills:**
+    **Skills:** -->
   
 ### 2. SQL
   - [Customer Churn Analysis for Telecommunication Networks](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
+    **Goal:**
+  
+    **Code:** [Customer Churn Analysis.sql](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
+  
+    **Description:**
+  
+    **Results:** The telecommunication network should add value to its service by giving incentives and exploring better pricing opportunities. They should give premium tech support for all customers,
+                 train their customer support personnel and improve customer feedback. Also, there should be incentives to encourage long-term commitments. it can be offering locked phone discounts to keep                         customers beyond a year. Further, there should be city-specific market insights and customer feedback collection to gain insights into local preferences. [Attached PowerPoint](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20PowerPoints.pptx)
+  
+    **Software:** MySQL server
+  
+    **Skills:** Data Management, Data Manipulation Language (DML), Data Query Language(DQL), Data Definition Language(DDL).
+
+
   - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
           
 ### 3. Tableau
