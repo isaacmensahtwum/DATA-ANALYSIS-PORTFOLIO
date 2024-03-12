@@ -9,21 +9,21 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
 ## Table of Contents
 - [About](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#portfolio-projects)
-    - Python
-        - [Sales Analysis for Retail Store](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb)
-        - [Movie Recommendation System (Machine Learning)](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Movie%20Recommendation%20System.ipynb)
-          
-    - SQL
-        - [Customer Churn Analysis for Telecommunication Networks](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
-        - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
-          
-    - Tableau
-      - [My Tableau Public Profile](https://public.tableau.com/app/profile/isaac.mensah.twum/vizzes). This link leads to the Tableau visualizations I published.
-        
-    - Power BI
-      - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
-      
+    
 ## Portfolio Projects
+- Python
+  - [Sales Analysis for Retail Store](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb)
+  - [Movie Recommendation System (Machine Learning)](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Movie%20Recommendation%20System.ipynb)
+          
+- SQL
+  - [Customer Churn Analysis for Telecommunication Networks](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
+  - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
+          
+- Tableau
+  - [My Tableau Public Profile](https://public.tableau.com/app/profile/isaac.mensah.twum/vizzes). This link leads to the Tableau visualizations I published.
+        
+- Power BI
+  - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
 
 ## Education
 - Appalachian State University, North Carolina <br>
