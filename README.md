@@ -69,20 +69,36 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
   
     **Software:** MySQL server, draw.io, Tableau
   
-    **Skills:** Data Management, Data Manipulation Language (DML), Data Query Language(DQL), Data Definition Language(DDL), Entity Relationship Diagram, RDBMS
+    **Skills:** Database Management, Data Manipulation Language (DML), Data Query Language(DQL), Data Definition Language(DDL), Entity Relationship Diagram, RDBMS, Presentation
 
 
   - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
+    
+    **Goal:** To analyze the impact of COVID-19 cases globally by infection and death percentage.
+    
+    **Code:** [Analysis of COVID-19 with SQL.sql](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
+    
+    **Method:** Used Oracle software to clean and create Excel tables imported in Tableau. Performed queries like Join, Like, Having, Where and other high queries.
+    
+    **Results:** Displayed on Tableau Public [here](https://public.tableau.com/app/profile/isaac.mensah.twum/viz/PortfolioProject_16864195247070/Dashboard1)
+    
+    **Software:** Oracle database and Tableau
+    
+    **Skills:** Database Management, Data Manipulation Language (DML), Data Query Language(DQL), Data Definition Language(DDL)
+
           
 ### 3. Tableau
   - [My Tableau Public Profile](https://public.tableau.com/app/profile/isaac.mensah.twum/vizzes). This link leads to the Tableau visualizations I published.
         
 ### 4. Power BI
-  - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
+  - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix).
+    I followed a learning platform to create this Dashboard. The goal is to create a dashboard of Job roles and key variables like salaries, countries, gender, and how happy one is with their job.
+    The data was from a survey and therefore I used Power BI to clean, create columns, aggregations, etc.
 
-### 5. Excel
+<!-- ### 5. Excel
 
-### 6. SAS viya
+### 6. SAS viya -->
+
 
 ## Education
 - Appalachian State University, North Carolina <br>
