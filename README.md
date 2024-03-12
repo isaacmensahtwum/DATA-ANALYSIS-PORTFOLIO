@@ -6,15 +6,53 @@ My name is Isaac and I have a background in Mathematics, Economics and an MSc. i
 <br >
 Explore my repository for a comprehensive overview of my skills, experiences, and projects in data science, data management, supply chain, and my knowledge of software.
 
-## Table of Contents
+## Table of Content
 - [About](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#portfolio-projects)
     
 ## Portfolio Projects
-- Python
-  - [Sales Analysis for Retail Store](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb)
-  - [Movie Recommendation System (Machine Learning)](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Movie%20Recommendation%20System.ipynb)
-          
+### 1. Python
+- Sales Analysis for Retail Stores <br>
+    **Goal:** To identify product categories whose sales trend over time have declined and identify key reasons for such decline.<br>
+    
+    **Code:** [Business Metrics-Sales Analysis.ipynb](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Business%20Metrics%20-%20Sales%20Analysis.ipynb) <br>
+    
+    **Method:** The dataset contains 30 variables including unit price, quantity sold, product categories, and competitor prices. It spans for 2 consecutive years.
+                  Data Cleaning and Exploratory Data Analysis and Visualization.<br>
+                  
+    **Results:** The sales analysis revealed a decrease in revenue for four product categories, bath products, game consoles, cool stuff, and garden tools in 2018 compared to the previous year. Analyzing the competitor prices highlighted higher average prices for bath products, cool products, and garden tools in 2018 compared to their competitors, indicating a potential influence on customer decision-making.<br>
+    
+    **Libraries:** pandas, numpy, seaborn<br>
+    
+    **Skills:** data cleaning, data analysis, data visualization.<br>
+
+- Movie Recommendation System (Machine Learning)
+  
+    **Goal:**
+  
+    **Code:** [Movie Recommendation System](https://github.com/isaacmensahtwum/Data-Analysis-with-Python/blob/b8e858a11f1dbecaf1543cd31191dbf20dca71c7/Movie%20Recommendation%20System.ipynb)
+  
+    **Description:**
+  
+    **Results:**
+  
+    **Libraries:**
+  
+    **Skills:**
+- Customer Sentiment Analysis
+  
+  **Goal:**
+  
+    **Code:**
+  
+    **Description:**
+  
+    **Results:**
+  
+    **Libraries:**
+  
+    **Skills:**
+  
 - SQL
   - [Customer Churn Analysis for Telecommunication Networks](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
   - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
