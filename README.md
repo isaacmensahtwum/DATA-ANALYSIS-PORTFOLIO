@@ -53,15 +53,19 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
   
     **Skills:**
   
-- SQL
+### 2. SQL
   - [Customer Churn Analysis for Telecommunication Networks](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Customer%20Churn%20SQL%20Query.sql)
   - [Analysis of COVID-19 with SQL](https://github.com/isaacmensahtwum/Data-Analysis-with-SQL/blob/88f2c590fc918f37ddc50ed3b5270dedf823021d/Analysing%20COVID-19%20with%20SQL.sql)
           
-- Tableau
+### 3. Tableau
   - [My Tableau Public Profile](https://public.tableau.com/app/profile/isaac.mensah.twum/vizzes). This link leads to the Tableau visualizations I published.
         
-- Power BI
+### 4. Power BI
   - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix)
+
+### 5. Excel
+
+### 6. SAS viya
 
 ## Education
 - Appalachian State University, North Carolina <br>
