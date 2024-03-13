@@ -120,7 +120,7 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
 - [R programming](https://www.coursera.org/account/accomplishments/verify/4J2Z3E2HBUER), Coursera, Johns Hopkins University Dec. 2021
 
 ## Contact
-  - Website: 
+  - Website: [@IsaacTwum](https://isaacmensahtwum.github.io/DataAnalyst.github.io/)
   - LinkedIn: [@imtwum](https://www.linkedin.com/in/imtwum/)
   - Email: twumisaacmensah@gmail.com
 
