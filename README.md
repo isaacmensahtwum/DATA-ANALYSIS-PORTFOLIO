@@ -95,9 +95,9 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
     I followed a learning platform to create this Dashboard. The goal is to create a dashboard of Job roles and key variables like salaries, countries, gender, and how happy one is with their job.
     The data was from a survey and therefore I used Power BI to clean, create columns, aggregations, etc.
 
-<!-- ### 5. Excel
+<!-- ### 5. Excel -->
 
-### 6. SAS viya -->
+### 6. [SAS viya]()
 
 
 ## Education
