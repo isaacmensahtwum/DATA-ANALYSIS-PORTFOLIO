@@ -97,7 +97,8 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
 
 <!-- ### 5. Excel -->
 
-### 6. [SAS viya]()
+### 6. SAS viya
+  - [SAS viya Dashboard](https://github.com/isaacmensahtwum/SAS-viya.git) printed in PDF format.
 
 
 ## Education
