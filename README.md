@@ -6,9 +6,9 @@ My name is Isaac and I have a background in Mathematics, Economics and an MSc. i
 <br >
 Explore my repository for a comprehensive overview of my skills, experiences, and projects in data science, data management, supply chain, and my knowledge of software.
 
-## Table of Content
+<!-- ## Table of Content
 - [About](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/isaacmensahtwum/DATA-ANALYSIS-PORTFOLIO/edit/main/README.md#portfolio-projects) -->
     
 ## Portfolio Projects
 ### 1. Python
