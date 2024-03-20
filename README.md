@@ -91,6 +91,7 @@ Explore my repository for a comprehensive overview of my skills, experiences, an
   - [My Tableau Public Profile](https://public.tableau.com/app/profile/isaac.mensah.twum/vizzes). This link leads to the Tableau visualizations I published.
         
 ### 4. Power BI
+  [Click Here](https://github.com/isaacmensahtwum/Power-BI-and-Excel.git) for all my Power BI projects and Dashborads
   - [Survey of Data Professionals](https://github.com/isaacmensahtwum/Tableau-and-Power-BI/blob/0f36a2ae637e93c26190139d0f05ef42e76f2b65/Data%20Analysis%20with%20PowerBI.pbix).
     I followed a learning platform to create this Dashboard. The goal is to create a dashboard of Job roles and key variables like salaries, countries, gender, and how happy one is with their job.
     The data was from a survey and therefore I used Power BI to clean, create columns, aggregations, etc.
